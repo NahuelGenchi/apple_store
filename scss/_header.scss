@@ -1,11 +1,12 @@
 .header {
     min-height: 10vh;
-    position: fixed;
     width: 100vw;
-    background-color: #313131;
     .navbar {
         min-height: 10vh;
+        width: 100%;
+        position: fixed;
         padding: 15px 0;
+        background-color: #313131;
         .container-fluid {
             width: 95%;
             .navbar-brand {
